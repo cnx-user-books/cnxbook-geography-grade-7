@@ -1,0 +1,475 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Reading, analysing and interpreting vertical aerial photos and orthphoto maps</title>
+  <metadata>
+  <md:content-id>m23195</md:content-id><md:title>Reading, analysing and interpreting vertical aerial photos and orthphoto maps</md:title>
+  <md:abstract/>
+  <md:uuid>a98b4d5f-b198-4c9f-9555-873df48ed1b3</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1164894535425">
+      <title>SOCIAL SCIENCES: Geography</title>
+      <para id="para-id1164894535425">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1164894104340">
+      <title>Grade 7</title>
+      <para id="para-id1164894104340">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1164894409348">
+      <title>MAP WORK</title>
+      <para id="para-id1164894409348">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1164893928169">
+      <title>Module 12</title>
+      <para id="para-id1164893928169">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1164893909512">
+      <title>UNDERSTANDING THE SYMBOLS ON A TOPOGRAPHICAL MAP</title>
+      <para id="para-id1164893909512">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1164894159602">
+      <title>Activity1:</title>
+      <para id="para-id1164894159602">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1164894543357">
+      <title>To understand the symbols on a topographical map</title>
+      <para id="para-id1164894543357">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1164894412708">
+      <title>[LO 1.4]</title>
+      <table id="id1164894262566" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c2"/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2"/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry namest="c2" nameend="c4">
+                <list id="id1164894278859" list-type="bulleted">
+                  <item>Study this part of the Ceres 1:50 000 map.</item>
+                </list>
+                <media id="id1164894566686" alt="">
+                  <image mime-type="image/png" src="../../media/Picture 18.png"/>
+                </media>
+                <media id="id1164894349968" alt="">
+                  <image mime-type="image/png" src="../../media/Picture 19.png"/>
+                </media>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1164894408348"> Verklaring Reference</para>
+      <table id="id1164894563434" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entrytbl cols="1">
+                <colspec colnum="1" colname="c1"/>
+                <tbody>
+                  <row>
+                    <entry>Internasionale Grense </entry>
+                  </row>
+                  <row>
+                    <entry>Provinsiale Grense </entry>
+                  </row>
+                  <row>
+                    <entry>Veelvoudige Spoorlyn </entry>
+                  </row>
+                  <row>
+                    <entry>Enkel Spoorlyn </entry>
+                  </row>
+                  <row>
+                    <entry>Geëlektrifiseerde Spoorlyn </entry>
+                  </row>
+                  <row>
+                    <entry>Smalspoorlyne </entry>
+                  </row>
+                  <row>
+                    <entry>Diensspoorlyn </entry>
+                  </row>
+                  <row>
+                    <entry>Hoofverkeerspaaie </entry>
+                  </row>
+                  <row>
+                    <entry>Grootpaaie  </entry>
+                  </row>
+                  <row>
+                    <entry>Sekondêre Paaie </entry>
+                  </row>
+                  <row>
+                    <entry>Ander Paaie </entry>
+                  </row>
+                  <row>
+                    <entry>Dowwe Paaie en Voetpaaie </entry>
+                  </row>
+                  <row>
+                    <entry>Kraglyne </entry>
+                  </row>
+                  <row>
+                    <entry>Telefoonlyne </entry>
+                  </row>
+                  <row>
+                    <entry>Poskantore, Polisiestasies en -poste</entry>
+                  </row>
+                  <row>
+                    <entry>Winkels, Hotelle, Skole en</entry>
+                  </row>
+                  <row>
+                    <entry>plekke van Aanbidding</entry>
+                  </row>
+                  <row>
+                    <entry>Vuurtorings en Seevaartligte </entry>
+                  </row>
+                  <row>
+                    <entry>Seevaartbakens </entry>
+                  </row>
+                  <row>
+                    <entry>Trig. Bakens (Nommer regs en hoogte onder) </entry>
+                  </row>
+                </tbody>
+              </entrytbl>
+              <entry>
+                <media id="id1164894292044" alt="">
+                  <image mime-type="image/png" src="../../media/Picture 20.png"/>
+                </media>
+              </entry>
+              <entrytbl cols="1">
+                <colspec colnum="1" colname="c1"/>
+                <tbody>
+                  <row>
+                    <entry> International Boundaries</entry>
+                  </row>
+                  <row>
+                    <entry> Provincial Boundaries</entry>
+                  </row>
+                  <row>
+                    <entry> Multiple Track Railways</entry>
+                  </row>
+                  <row>
+                    <entry> Single Track Railways</entry>
+                  </row>
+                  <row>
+                    <entry> Electrified Railways</entry>
+                  </row>
+                  <row>
+                    <entry> Narrow Gauge Railways</entry>
+                  </row>
+                  <row>
+                    <entry> Service Railways</entry>
+                  </row>
+                  <row>
+                    <entry> Arterial Railways</entry>
+                  </row>
+                  <row>
+                    <entry> Main Roads</entry>
+                  </row>
+                  <row>
+                    <entry> Secondary Roads</entry>
+                  </row>
+                  <row>
+                    <entry> Other Roads</entry>
+                  </row>
+                  <row>
+                    <entry> Tracks and Footpaths</entry>
+                  </row>
+                  <row>
+                    <entry> Power Lines</entry>
+                  </row>
+                  <row>
+                    <entry> Telephone Lines</entry>
+                  </row>
+                  <row>
+                    <entry> Post Offices, Police Stations and Posts</entry>
+                  </row>
+                  <row>
+                    <entry> Stores, Hotels, Schools and</entry>
+                  </row>
+                  <row>
+                    <entry> places of worship</entry>
+                  </row>
+                  <row>
+                    <entry> Lighthouses and Marine Lights</entry>
+                  </row>
+                  <row>
+                    <entry> Marine Beacons</entry>
+                  </row>
+                  <row>
+                    <entry> Trig. Beacons (Number to right and height below)</entry>
+                  </row>
+                </tbody>
+              </entrytbl>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1164893951878"> Verklaring Reference</para>
+      <table id="id1164894085936" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entrytbl cols="1">
+                <colspec colnum="1" colname="c1"/>
+                <tbody>
+                  <row>
+                    <entry/>
+                  </row>
+                  <row>
+                    <entry>Magnetiese Stasies en Grondtekens </entry>
+                  </row>
+                  <row>
+                    <entry>Hutte </entry>
+                  </row>
+                  <row>
+                    <entry>Monumente </entry>
+                  </row>
+                  <row>
+                    <entry>Dipbakke </entry>
+                  </row>
+                  <row>
+                    <entry>Windpompe </entry>
+                  </row>
+                  <row>
+                    <entry>Mure </entry>
+                  </row>
+                  <row>
+                    <entry>Grondbewaringswalle </entry>
+                  </row>
+                  <row>
+                    <entry>Uitgrawings </entry>
+                  </row>
+                  <row>
+                    <entry>Standhoudende water </entry>
+                  </row>
+                  <row>
+                    <entry>Nie-standhoudende water </entry>
+                  </row>
+                  <row>
+                    <entry>Droë Panne </entry>
+                  </row>
+                  <row>
+                    <entry>Fonteine, Watergate en Putte </entry>
+                  </row>
+                  <row>
+                    <entry>Moerasse en Vleie </entry>
+                  </row>
+                  <row>
+                    <entry>Pyplyne </entry>
+                  </row>
+                  <row>
+                    <entry>Fotomiddelpunte </entry>
+                  </row>
+                  <row>
+                    <entry>Prominente Klipbanke </entry>
+                  </row>
+                  <row>
+                    <entry>Terrasse </entry>
+                  </row>
+                  <row>
+                    <entry>Bewerkte Lande </entry>
+                  </row>
+                  <row>
+                    <entry>Boorde en Wingerde </entry>
+                  </row>
+                  <row>
+                    <entry>Bome en Bos </entry>
+                  </row>
+                </tbody>
+              </entrytbl>
+              <entry>
+                <media id="id1164892685792" alt="">
+                  <image mime-type="image/png" src="../../media/Picture 21.png"/>
+                </media>
+              </entry>
+              <entrytbl cols="1">
+                <colspec colnum="1" colname="c1"/>
+                <tbody>
+                  <row>
+                    <entry/>
+                  </row>
+                  <row>
+                    <entry> Magnetic Stations and Ground Signs</entry>
+                  </row>
+                  <row>
+                    <entry> Huts</entry>
+                  </row>
+                  <row>
+                    <entry> Monuments</entry>
+                  </row>
+                  <row>
+                    <entry> Dipping Tanks</entry>
+                  </row>
+                  <row>
+                    <entry> Windmills</entry>
+                  </row>
+                  <row>
+                    <entry> Walls</entry>
+                  </row>
+                  <row>
+                    <entry> Anti-erosion Walls</entry>
+                  </row>
+                  <row>
+                    <entry> Excavations</entry>
+                  </row>
+                  <row>
+                    <entry> Perennial Water</entry>
+                  </row>
+                  <row>
+                    <entry> Non-perennial Water</entry>
+                  </row>
+                  <row>
+                    <entry> Dry Pans</entry>
+                  </row>
+                  <row>
+                    <entry> Springs, Waterholes and Wells</entry>
+                  </row>
+                  <row>
+                    <entry> Marshes, Swamps and Vleis</entry>
+                  </row>
+                  <row>
+                    <entry> Pipelines</entry>
+                  </row>
+                  <row>
+                    <entry> Photo Centres</entry>
+                  </row>
+                  <row>
+                    <entry> Prominent Rock Outcrops</entry>
+                  </row>
+                  <row>
+                    <entry> Terraces</entry>
+                  </row>
+                  <row>
+                    <entry> Cultivated Lands</entry>
+                  </row>
+                  <row>
+                    <entry> Orchards and Vineyards</entry>
+                  </row>
+                  <row>
+                    <entry> Trees and Bush</entry>
+                  </row>
+                </tbody>
+              </entrytbl>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1164894433982">1. Now answer the following questions:</para>
+      <para id="id1164892686060">a) How many stations and sidelines are indicated?</para>
+      <para id="id1164892687850"/>
+      <para id="id1164892682942">b) Is this town serviced from a single or double track?</para>
+      <para id="id1164892682948"/>
+      <para id="id1164892685324">c) Name the river running through the town.</para>
+      <para id="id1164892685329"/>
+      <para id="id1164892686836">d) Name the river flowing into the Ceres dam.</para>
+      <para id="id1164892686841"/>
+      <para id="id1164892683093">e) How many separate living areas are indicated?</para>
+      <para id="id1164892683099"/>
+      <para id="id1164892687754">f) How high is the highest peak in the Witsenberg?</para>
+      <para id="id1164892687760"/>
+      <para id="id1164894546351">g) Determine the distance between the police station and the sideline (small station)  Skoonvlei.</para>
+      <para id="id1164894546359"/>
+      <para id="id1164892686541">h) Explain why the contours in the region of the Aartappel River (north of the town) are  far from each other, while northwest of Ceres they are very close to each other.</para>
+      <para id="id1164892685997"/>
+      <para id="id1164892686001"/>
+      <para id="id1164892686005"/>
+      <para id="id1164892682704"/>
+      <para id="id1164892682709">These topographic maps cannot be found in atlases. However, it can be ordered from The State Printer in Pretoria where they are prepared by cartographers from vertical aerial photos and orthophoto maps.</para>
+    </section>
+    <section id="id1164892693198">
+      <title>Assessment</title>
+      <table id="id1164892686997" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Learning Outcomes(LOs)</entry>
+            </row>
+            <row>
+              <entry>LO 1 </entry>
+            </row>
+            <row>
+              <entry>GEOGRAPHICAL ENQUIRYThe learner will be able to use enquiry skills to investigate geographical and environmental concepts and processes.</entry>
+            </row>
+            <row>
+              <entry>Assessment standards(ASe)</entry>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry>1.1 identifies a variety of geographical and environmental sources relevant to an inquiry [finds sources];</entry>
+            </row>
+            <row>
+              <entry>1.2 organises and interprets information relevant to the enquiry from simple graphs, maps, and statistical sources [works with sources];</entry>
+            </row>
+            <row>
+              <entry>1.3 measures distances on globes atlases and maps using line scales [works with sources];</entry>
+            </row>
+            <row>
+              <entry>1.4 uses local maps and/or orthophoto maps to locate and investigate the issue and its context (compares with field observations) [works with sources];</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1164892687333">
+      <title>Memorandum</title>
+      <para id="id1164892682926">Activity 1:</para>
+      <para id="id1164892682930">1. 4</para>
+      <para id="id1164892682728">2. single track railway</para>
+      <para id="id1164892682735">3. Dwars River</para>
+      <para id="id1164892685607">4. Koekedou River</para>
+      <para id="id1164892685614">5. Main town, second direct east of main town, third north east of main town Nduli.</para>
+      <para id="id1164892686073">6. Slab Peak 1 392 m</para>
+      <para id="id1164892686080">7. 6,2 cm × 50 000 = 310 000 cm ÷ 10 000 = 3,1 km</para>
+      <para id="id1164892676366">8. Aartappel River region is situated in the wide, even river valley, where contours are far from one other to represent a flat slope. The south western region is a higher, mountainous area with steep, mountainous slopes. The contours are therefore very close to one other.</para>
+    </section>
+  </content>
+</document>
